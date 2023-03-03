@@ -1,0 +1,5 @@
+@media (min-width: 801px) {
+    .account-bar {
+        order: -1 !important;
+    }
+}
